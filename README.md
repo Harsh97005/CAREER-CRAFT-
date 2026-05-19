@@ -1,4 +1,4 @@
-# AI Resume Builder
+Career Craft Resume Builder
 
 An intelligent and modern Resume Builder web application built using React.  
 Users can create professional resumes with live preview, customizable sections, modern UI, and downloadable resume layouts.
