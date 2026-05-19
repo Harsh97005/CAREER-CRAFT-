@@ -1,64 +1,37 @@
-Career Craft Resume Builder
+# 🚀 Career Craft Resume Builder
 
-An intelligent and modern Resume Builder web application built using React.  
-Users can create professional resumes with live preview, customizable sections, modern UI, and downloadable resume layouts.
+> Build professional, modern, and ATS-friendly resumes effortlessly.
 
----
-
-## Features
-
-- Modern Responsive UI
-- Live Resume Preview
-- Multiple Resume Sections
-- Skills & Experience Management
-- Education Details
-- Projects Section
-- Clean Dashboard Design
-- Fast React Frontend
-- Easy Form Editing
-- Resume Templates
-- Download/Print Ready Layout
+Career Craft Resume Builder is a sleek and responsive AI-powered resume builder made with React.  
+It helps users create beautiful resumes with live preview, editable sections, and a clean modern interface.
 
 ---
 
-## Tech Stack
+# ✨ Features
 
-- React.js
-- JavaScript
-- CSS / Tailwind CSS
-- Vite
-
----
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-```
-
-Go to project folder:
-
-```bash
-cd your-repo-name
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run the development server:
-
-```bash
-npm run dev
-```
+✅ Modern Responsive UI  
+✅ Live Resume Preview  
+✅ Easy Form Editing  
+✅ Professional Resume Layouts  
+✅ Skills & Experience Sections  
+✅ Education & Projects Sections  
+✅ Fast React Frontend  
+✅ ATS-Friendly Design  
+✅ Clean Dashboard Interface  
+✅ Download / Print Ready Resume  
 
 ---
 
-## Project Structure
+# 🛠️ Tech Stack
+
+- ⚛️ React.js
+- ⚡ Vite
+- 🎨 Tailwind CSS / CSS
+- 🟨 JavaScript
+
+---
+
+# 📂 Project Structure
 
 ```bash
 src/
@@ -71,30 +44,66 @@ src/
 
 ---
 
-## Future Improvements
+# ⚙️ Installation
 
-- AI Resume Suggestions
-- Resume Score Analyzer
-- PDF Export
-- Authentication
-- Backend Integration
-- Cloud Storage
-- Multiple Themes
+## 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+```
+
+## 2️⃣ Move Into Project Folder
+
+```bash
+cd your-repo-name
+```
+
+## 3️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+## 4️⃣ Start Development Server
+
+```bash
+npm run dev
+```
 
 ---
 
-## Screenshots
+# 📸 Screenshots
 
-Add your project screenshots here.
+<img width="1882" height="925" alt="image" src="https://github.com/user-attachments/assets/1e504db4-80a5-4b4e-bd7e-2fcc17b482c1" />
 
----
-
-## Author
-
-Harsh
+<img width="1883" height="932" alt="image" src="https://github.com/user-attachments/assets/d8708a06-691b-4c19-ba92-8348a42a7c6d" />
 
 ---
 
-## License
+# 🌟 Future Improvements
 
-This project is open source and available under the MIT License.
+🚀 AI Resume Suggestions  
+📄 PDF Export  
+🔐 Authentication System  
+☁️ Cloud Storage  
+🎨 Multiple Resume Themes  
+📊 Resume Score Analyzer  
+🌐 Backend Integration  
+
+---
+
+# 👨‍💻 Author
+
+### Harsh
+
+---
+
+# ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+---
+
+# 📜 License
+
+This project is licensed under the MIT License.
